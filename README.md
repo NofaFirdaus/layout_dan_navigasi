@@ -26,3 +26,15 @@ code :
 - **Nesting rows and columns**
 ![alt text](image-2.png)
 
+- **Grid**
+![alt text](image-8.png)
+
+- **List View**
+![alt text](image-9.png)
+
+- **Stack**
+![alt text](image-10.png)
+
+
+- **Card**
+![alt text](image-11.png)
